@@ -1,8 +1,4 @@
-//
-// Source code for application to transmit image from ov7670 to PC via USB
-// By Siarhei Charkes in 2015
-// http://privateblog.info 
-//
+
 
 #include <stdint.h>
 #include <avr/io.h>
