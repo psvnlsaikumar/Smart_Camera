@@ -24,7 +24,5 @@ User Stories
 </ol>
 
 <h3> 
-Install dependencies from the below urls
+Install dependencies from <a href = "https://mega.nz/folder/Dw0EBZYQ#GKxJT4jZjwIXKAHyZsHskA"> here. </a>
 </h3>
-
-https://mega.nz/folder/Dw0EBZYQ#GKxJT4jZjwIXKAHyZsHskA
