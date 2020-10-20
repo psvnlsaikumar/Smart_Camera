@@ -2,14 +2,11 @@
 Smart Camera
 </h3>
 
-<i>
-Smart Camera is an arduino uno based application, which captures the user's images only when a user is present in the given 
+Smart Camera is an arduino uno based application, which captures the user's images only when a user is present in the given
 proximity range. It has various use cases, such as theft monitoring, saving data by capturing only the relevant and meaningful
 information or activity.
 
 This application runs on a java server, and can be extended to perform data analysis and data mining based on the user activities.
-
-</i>
 
 <h3>
 User Stories 
